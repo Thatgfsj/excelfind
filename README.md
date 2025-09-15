@@ -25,35 +25,16 @@
 确保已安装 Python 3.8+，然后运行：
 
 ```bash
-pip install -r requirements.txt
+pip install pandas openpyxl xlrd pathlib datetime
 ```
-
-> `requirements.txt` 内容：
-> ```
-> pandas
-> openpyxl
-> tkinter
-> ```
-
-（注：`tkinter` 通常随 Python 一同安装）
-
----
 
  2. 运行程序
 
 ```bash
-python main.py
+python 表格查找软件.by23政.py
 ```
 
-或直接双击 `main.py`（Windows/macOS 需配置 Python 环境）。
-
----
-
-🖼️ 界面截图
-
-![界面预览](https://via.placeholder.com/800x600?text=Table+Search+UI+Preview)
-
-（建议上传实际截图到项目根目录 `/screenshots/` 并替换链接）
+或直接双击 py文件 即可（Windows/macOS 需配置 Python 环境）。
 
 ---
 
