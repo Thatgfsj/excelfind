@@ -25,7 +25,7 @@
 确保已安装 Python 3.8+，然后运行：
 
 ```bash
-pip install pandas openpyxl xlrd pathlib datetime
+pip install pandas openpyxl xlrd datetime
 ```
 
  2. 运行程序
